@@ -3,3 +3,12 @@ google-play-scraper
 pandas
 numpy
 jupyter
+
+transformers>=4.0.0
+torch
+scikit-learn
+spacy
+nltk
+pandas
+tqdm
+vaderSentiment
